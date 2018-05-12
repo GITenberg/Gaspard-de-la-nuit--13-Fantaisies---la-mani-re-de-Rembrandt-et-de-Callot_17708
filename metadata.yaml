@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Aloysius_Bertrand
     - http://en.wikipedia.org/wiki/Aloysius_Bertrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17708#Gaspard-de-la-nuit--13-Fantaisies---la-mani-re-de-Rembrandt-et-de-Callot
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2006-02-07'
 gutenberg_type: Text
